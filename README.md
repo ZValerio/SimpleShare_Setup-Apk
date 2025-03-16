@@ -13,7 +13,7 @@ Thank you for installing SimpleShare! Below are some key instructions to help yo
    To transfer files, you need to use the IP address shown by the server. Both devices (the sender and the receiver) must be on the **same network** to ensure a successful file transfer. If devices are on different networks , the receiver must do port-forwarding to his device and sender must use public ip of the target.
 
 3. **Encryption:**
-   Encryption is selected by default. When it's enabled the connection uses SSL protocol so bytes are crypted between users. If Encription is disabled, data travels in cleartext, but the transfer is faster.
+   Encryption is selected by default. When it's enabled the connection uses SSL protocol so bytes are encrypted between users. If Encription is disabled, data travels in cleartext, but the transfer is faster.
 
 If you encounter any issues or have questions, feel free to reach out to our support team.
 
